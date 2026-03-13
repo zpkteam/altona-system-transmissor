@@ -1,0 +1,12 @@
+logs/*
+!logs/.gitkeep
+
+Flags/*
+!Flags/.gitkeep
+
+data/*
+!data/.gitkeep
+
+__pycache__/
+*.o
+*.so
